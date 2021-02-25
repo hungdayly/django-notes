@@ -25,3 +25,9 @@ $ python -m pip install --upgrade pip
 $ pip install django
 ```
 
+## Thoát khỏi môi trường ảo
+
+```bash
+(venv)
+$ deactivate
+```
